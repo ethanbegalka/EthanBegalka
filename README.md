@@ -21,10 +21,10 @@ Within some of my personal projects, here are terraform modules I've created and
 ### [Access Key Cleanup](https://github.com/ethanbegalka/AccessKeyCleanup)
 The Access Key Cleanup project deploys AWS cloud componentns which deletes access keys which haven't been used for an extended period of time.
 
-### [High Privilege Role Alerting](https://github.com/VerticalRelevance/IdentityFoundations-Blueprint/tree/main/HighPrivilegeRoleAlerting)
+### [High Privilege Role Alerting](https://github.com/VerticalRelevance/IdentityFoundations-Blueprint/tree/main/HighPrivilegeRoleAlerting)<sup><sup>[*](#annotation1)</a></sup></sup>
 This module uses CDK and Service Catalog to vend serverless AWS cloud components to alert individuals for if a role is assumed which has particularly high privileges.
 
-### [IAM Role Broker](https://github.com/VerticalRelevance/IdentityFoundations-Blueprint/tree/main/IAMRoleBroker)
+### [IAM Role Broker](https://github.com/VerticalRelevance/IdentityFoundations-Blueprint/tree/main/IAMRoleBroker) <sup><sup>[*](#annotation1)</a></sup></sup>
 IAM Role Broker is a service catalog product which vends IAM roles and policies, which can help standardize and track roles to prevent role sprawl.
 
 ## 📝 Latest Blog Posts
@@ -37,3 +37,5 @@ The Role Broker module addresses role sprawl by using json configuration and CDK
 ## Let's Connect!
 Feel free to reach out to me through:
 - LinkedIn: [https://www.linkedin.com/in/ethanbegalka/](https://www.linkedin.com/in/ethanbegalka/)
+
+<sub><sub><a name="annotation1" style="font-size: smaller;">*</a> : All contributions to the annotated project were made during my tenure with another organization, and it is subject to the organization's control policies and licensing agreements. The inclusion of this project does not imply ownership, and all rights, copyrights, and licenses remain with the associated organization. For more information on the project's license and usage terms, please refer to the project's licenses and associated README files.</sub></sub>
