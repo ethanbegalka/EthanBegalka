@@ -16,7 +16,7 @@ Here are some of the certifications I've earned:
 Below are some of my projects that I'm particularly proud of. Feel free to check them out:
 
 ### [Terraform Module Library](https://github.com/ethanbegalka/EthanBegalkaTerraformModuleLibrary)
-Within some of my personal projects, here are terraform modules I've created and have used in my own private projects.
+Within some of my personal projects, I have built a library of Terraform modules to standardize my implementations.
 
 ### [Access Key Cleanup](https://github.com/ethanbegalka/AccessKeyCleanup)
 The Access Key Cleanup project deploys automation which deletes unused AWS IAM access keys.
