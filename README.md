@@ -19,7 +19,7 @@ Below are some of my projects that I'm particularly proud of. Feel free to check
 Within some of my personal projects, here are terraform modules I've created and have used in my own private projects.
 
 ### [Access Key Cleanup](https://github.com/ethanbegalka/AccessKeyCleanup)
-The Access Key Cleanup project deploys AWS cloud componentns which deletes access keys which haven't been used for an extended period of time.
+The Access Key Cleanup project deploys AWS cloud components which deletes access keys which haven't been used for an extended period of time.
 
 ### [High Privilege Role Alerting](https://github.com/VerticalRelevance/IdentityFoundations-Blueprint/tree/main/HighPrivilegeRoleAlerting)<sup><sup>[*](#annotation1)</a></sup></sup>
 This module uses CDK and Service Catalog to vend serverless AWS cloud components to alert individuals for if a role is assumed which has particularly high privileges.
