@@ -25,7 +25,7 @@ The Access Key Cleanup project deploys AWS cloud components which deletes access
 This module uses CDK and Service Catalog to vend serverless AWS cloud components to alert individuals for if a role is assumed which has particularly high privileges.
 
 ### [IAM Role Broker](https://github.com/VerticalRelevance/IdentityFoundations-Blueprint/tree/main/IAMRoleBroker) <sup><sup>[*](#annotation1)</a></sup></sup>
-IAM Role Broker is a service catalog product which vends IAM roles and policies, which can help standardize and track roles to prevent role sprawl.
+The IAM Role Broker Module was created to vend pre-configured roles via AWS CDK to accounts to address IAM sprawl and standardize AWS roles and policies.
 
 ## 📝 Latest Blog Posts
 ### [Identity Foundations](https://www.verticalrelevance.com/solution-spotlight-identity-foundations/)
