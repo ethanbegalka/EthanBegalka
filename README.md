@@ -18,11 +18,14 @@ Below are some of my projects that I'm particularly proud of. Feel free to check
 ### [Terraform Module Library](https://github.com/ethanbegalka/EthanBegalkaTerraformModuleLibrary)
 Within some of my personal projects, here are terraform modules I've created and have used in my own private projects.
 
+### [Access Key Cleanup](https://github.com/ethanbegalka/AccessKeyCleanup)
+The Access Key Cleanup project deploys AWS cloud componentns which deletes access keys which haven't been used for an extended period of time.
+
 ### [High Privilege Role Alerting](https://github.com/VerticalRelevance/IdentityFoundations-Blueprint/tree/main/HighPrivilegeRoleAlerting)
 This module uses CDK and Service Catalog to vend serverless AWS cloud components to alert individuals for if a role is assumed which has particularly high privileges.
 
-### [Access Key Cleanup ](https://github.com/ethanbegalka/AccessKeyCleanup)
-The Access Key Cleanup project deploys AWS cloud componentns which deletes access keys which haven't been used for an extended period of time.
+### [IAM Role Broker](https://github.com/VerticalRelevance/IdentityFoundations-Blueprint/tree/main/IAMRoleBroker)
+IAM Role Broker is a service catalog product which vends IAM roles and policies, which can help standardize and track roles to prevent role sprawl.
 
 ## 📝 Latest Blog Posts
 ### [Identity Foundations](https://www.verticalrelevance.com/solution-spotlight-identity-foundations/)
