@@ -1,6 +1,6 @@
 # Hello, I'm Ethan Begalka! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a particular interest in DevOps, Security Engineering, and Cloud Engineering. Here, you'll find my portfolio of projects, certifications, and latest blog posts.
+I'm a passionate developer with a particular interest in DevOps, Security Engineering, and Cloud Engineering. Here, you'll find my portfolio of projects, certifications, and latest blog posts.
 
 ## 🏆 Certifications
 Here are some of the certifications I've earned:
