@@ -34,8 +34,4 @@ The Identity Foundations blog post provides an overview for how to approach iden
 The Role Broker module addresses role sprawl by using json configuration and CDK to deploy template roles, vended from Service Catalog to give organizations a head start for deploying a significant amount of roles to a high number of accounts. This blog posts goes into a high level of detail around the mechanics for how this module works and the problem it solves.
 
 
-## Let's Connect!
-Feel free to reach out to me through:
-- LinkedIn: [https://www.linkedin.com/in/ethanbegalka/](https://www.linkedin.com/in/ethanbegalka/)
-
 <sub><sub><a name="annotation1" style="font-size: smaller;">*</a> : All contributions to the annotated project were made during my tenure with another organization, and it is subject to the organization's control policies and licensing agreements. The inclusion of this project does not imply ownership, and all rights, copyrights, and licenses remain with the associated organization. For more information on the project's license and usage terms, please refer to the project's licenses and associated README files.</sub></sub>
